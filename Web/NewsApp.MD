@@ -31,7 +31,7 @@
 
 ### Entregable
 
-Crear un repositorio publico en github y enviar enlace a persona a cargo de su proceso de reclutacion.
+Crear un repositorio publico en su github personal y enviar enlace a persona a cargo de su proceso de reclutacion.
 
 ### Puntos de interes
 
